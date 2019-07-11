@@ -195,30 +195,3 @@ body{
      color: rgb(50, 101, 134);
           transition-duration: 350ms;
 }
-.dropbtn {
-    background-color: black;
-    color: white;
-    padding: #px;
-    font-size: #px;
-    border: none;
-}
-.dropdown {
-    position: relative;
-    display: inline-block;
-}
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: lightgrey;
-    min-width: #px;
-    z-index: 1;
-}
-.dropdown-content a {
-    color: black;
-    padding: #px #px;
-    text-decoration: none;
-    display: block;
-}
-.dropdown-content a:hover {background-color: white;}
-.dropdown:hover .dropdown-content {display: block;}
-.dropdown:hover .dropbtn {background-color: grey;}
