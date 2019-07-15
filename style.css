@@ -235,5 +235,6 @@ body{
                 /* Change color of dropdown */
                 .dropdown-content a: hover
                 {background-color: #ddd}
+            .show{display:block}
                 }
 </script>
