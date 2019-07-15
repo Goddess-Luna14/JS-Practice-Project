@@ -232,9 +232,11 @@ body{
                         z-index: 1
                 }
                 
-                /* Change color of dropdown */
+                /* Change color of dropdown links on hover*/
                 .dropdown-content a: hover
                 {background-color: #ddd}
+            /* show the dropdown menu*/
+            .dropdown-content
             .show{display:block}
                 }
 </script>
