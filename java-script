@@ -7,7 +7,7 @@ window.onclick = function(event) {
 if
 (!event.target.matches('.dropbtn')) {
      var dropdowns =
-document.getElementsByClassName("dropdown-content");
+document.getElementsByClassName("menu-toggle active-element");
      var i;
      for (i = 0; < dropdowns.length; i++) {
        var openDropdown =
