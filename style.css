@@ -196,7 +196,7 @@ body{
           transition-duration: 350ms;
 }
 
-<script>
+
         /when user clicks on the button
         fuction myFunction() {
                 /* Dropdown Button */
@@ -239,4 +239,3 @@ body{
             .dropdown-content
             .show{display:block}
                 }
-</script>
