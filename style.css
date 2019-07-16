@@ -224,8 +224,8 @@ body{
                 /* Dropdown Content */
                 .dropdown-content
                 {
-                        display: ;
-                        postion: absoltue;
+                        display: none;
+                        postion: absolute;
                         background-color: #ffffff;
                         min-widith: 160px;
                         box-shadow: 0px 8px 16px 0px rgba(0,0,0,0,2);
