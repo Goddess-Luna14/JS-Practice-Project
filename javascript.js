@@ -16,7 +16,7 @@ dropdowns[i];
        if
 (openDropdown.classList.contains('show')) {
 
-(openDropdown.classList.remove('show');
+openDropdown.classList.remove('show');
         }
      }
   }
